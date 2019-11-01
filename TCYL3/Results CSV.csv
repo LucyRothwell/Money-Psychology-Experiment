@@ -1,0 +1,11 @@
+Age,Education Level,Gender,Condition (mc - money, cc - control),Time Squares,Help offered (no of sheets)
+89,Masters,female,mc,25.0,0
+89,Masters,female,cc,25.0,0
+0,Please choose,female,mc,11.0,0
+98,Professional Diploma,female,cc,21.0,0
+89,Masters,female,mc,34.0,89
+89,Professional Diploma,female,cc,32.0,89
+34,Masters,female,mc,480.0,7
+19,Bachelors,female,cc,871.0,0
+18,High School,female,mc,185.0,7
+19,Masters,female,cc,22.0,8
