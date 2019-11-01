@@ -1,4 +1,4 @@
-# Money_psychology_experiment
+# Money Psychology Experiment
 
 The user partakes in an experiment evaluating how exposure to symbols of money change the way they behave (a detailed explanation is in the "READ ME" file in "Money_experiment GIT"). All participant's results are written to a single csv. Python back end with PyQT GUI. 
 
