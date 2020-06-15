@@ -3,10 +3,11 @@
 
 **Overview**
 
-This programme allows a user to partake in an experiment evaluating how exposure to symbols of money change the way they behave. 
+This programme allows the user to partake in an experiment evaluating how exposure to symbols of money change the way they behave. 
 * The user clicks through screens which invite them to answer questions and complete tasks. 
-* At the end of the experiment, the participant's results are automatically appended to a single csv. 
-* A detailed explanation of the experiment is in the "READ ME" file in "Money_experiment GIT".
+* If the user is in the experiment group, they are exposed to symbols of money during the experiment. If they are in the control group, they are not.
+* At the end of the experiment, the participant's results are automatically appended to a single results csv. 
+* A detailed explanation of the psychology experiment is in the "READ ME" file in "Money_experiment GIT".
 * Python back end with PyQT GUI
 
 **How to Run**
