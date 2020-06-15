@@ -1,5 +1,5 @@
 # Money Psychology Experiment
-***Main python script is hidden (due to UCL policy) but can be shared on request***
+*(Main python script is hidden due to UCL policy but can be shared on request)*
 
 **Overview**
 
