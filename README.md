@@ -13,6 +13,6 @@ This programme allows the user to partake in an experiment evaluating how exposu
 **How to Run**
 
 1. Set directory to this folder
-2. Run "RUN ME_main.py" file in python which will open the GUI (this file is available on request).
+2. Run "RUN ME_main.py" file in python which will open the GUI (this file is currently hidden but is available on request).
 
 *RUN ME.py is the only file you need to interact with to run this programme; the rest of the files are linked via this script
